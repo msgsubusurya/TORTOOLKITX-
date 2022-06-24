@@ -1,5 +1,5 @@
 {
-  "name": "public leech",
+  "name": "MSG LEECH",
   "description": "Telegram's telethon based publicLeech bot",
   "keywords": [
     "multi",
@@ -81,7 +81,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "10"
+        "version": "11"
       }
     }
   ]
