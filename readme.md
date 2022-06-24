@@ -5,7 +5,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 ## Use [master](https://github.com/XcodersHub/TorToolkitX) branch for stable performance.
 
 ## The Alpha branch is still in testing and is meant for testers. Soon a stable of this version will come out.
-
+[Herkou](https://heroku.com/deploy)
 
 ## For any help join this:- [TTKDISC](https://t.me/ttkdisc)
 ## or this:- [XcodersHubChat](https://t.me/xcodershubchat)
