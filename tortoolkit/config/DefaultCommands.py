@@ -1,5 +1,5 @@
 class Commands:
-    LEECH = "up"
+    LEECH = "leech"
     PURGE = "purge"
     PAUSEALL = "pauseall"
     RESUMEALL = "resumeall"
